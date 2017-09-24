@@ -1,4 +1,3 @@
 # rsschool-profile
-
-Andrei Turko
+Andrei Turko <br />
 HTML CSS Basics: https://www.codecademy.com/users/AndrTurko/achievements
